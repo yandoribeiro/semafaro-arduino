@@ -12,9 +12,9 @@ A atividade tem como proposta o desenvolvimento de um sistema semelhante a um se
 
 - 1 arduíno uno;
 
-- jumpers;
+- jumpers macho-macho e macho-fêmea;
 
-- 3 resistores de ... homs.
+- 3 resistores de 1000 homs.
 
 Com esses itens já é possível montar o sistema, garantindo o funcionamento da entrega.
 
